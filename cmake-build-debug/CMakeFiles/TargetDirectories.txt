@@ -1,0 +1,3 @@
+C:/Users/boris/Desktop/2.semester/PROG2/zadanie2/cmake-build-debug/CMakeFiles/z2.dir
+C:/Users/boris/Desktop/2.semester/PROG2/zadanie2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/boris/Desktop/2.semester/PROG2/zadanie2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
