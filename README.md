@@ -1,9 +1,11 @@
 # MNIST Neural Network
 The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning. 
+
 ![First](https://upload.wikimedia.org/wikipedia/commons/b/b1/MNIST_dataset_example.png)
 
 Neural Network is an algorithm that is trained to solve complex nonlinear problem X->Y. In our case, X is an image (an array of pixels) and Y is 
 image label (number 0-9). The algorithm works as multiple functions tied together. More about the functions in `task.pdf`
+
 ![Second](https://i.imgur.com/SILb1bP.png)
 
 ### Modes for output
